@@ -1,16 +1,28 @@
-### Hi there 👋
+# Ricardo França Soares
 
-<!--
-**rickfsoares/rickfsoares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack developer and I use arch btw!
 
-Here are some ideas to get you started:
+![rickfsoares's Stats](https://github-readme-stats.vercel.app/api?username=rickfsoares&theme=nord&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Java
+- Python
+- C#
+- Angular
+- Git
+- Linux
+- PostgreSQL
+- Docker
+- Unity
+- Kotlin
+
+## Studying
+- Kubernetes
+- AWS
+- Jenkins
+- Ansible
+- Terraform
+- django REST framework
+
+
+

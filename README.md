@@ -30,10 +30,11 @@ echo "I'm a full-stack developer and I use Arch btw!"
 ### Workstation Tools
 
 ![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)&nbsp;
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&style=for-the-badge&logo=obsidian&logoColor=white)&nbsp;
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)&nbsp;
 
 ## Studying
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
 

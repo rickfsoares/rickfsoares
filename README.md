@@ -37,4 +37,4 @@ echo "I'm a full-stack developer and I use Arch btw!"
 
 ![Kubernetes](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
